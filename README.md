@@ -35,10 +35,6 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="67" alt="css3 logo"  />
   <img width="25" />
-   <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caktusgroup.com%2Fblog%2F2018%2F02%2F26%2Fbasics-django-rest-framework%2F&psig=AOvVaw12zhS7svy_-aHe4jvdwKL3&ust=1735934729349000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiNupXr14oDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHetuDHL7c9lWIF0t2UmxRJDosZ5f7vt2jA&s)" height="67" alt="css3 logo"  />
-  <img width="25" />
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="67" alt="postgresql logo"  />
 </div>
 
