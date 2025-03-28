@@ -22,7 +22,19 @@ Currently, I am looking to expand my knowledge in this area."
 
 
 ###
-
+ <div>
+   <h4>my abilities</h4>
+   <ul >
+     <li>Python</li>
+     <li>Django</li>
+     <li>Django REST Framework (DRF)</li>
+     <li>Linux</li>
+     <li>Javascript</li>
+     <li>Tailwind css </li>
+     <li>Django Channels</li>
+   </ul>
+ </div>
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="67" alt="javascript logo"  />
   <img width="25" />
