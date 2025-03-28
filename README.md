@@ -12,7 +12,11 @@
 
 <br clear="both">
 
-<h4 align="left">Hello 👋  <br>My main expertise is in Python 🐍, with a strong focus on the Django framework 🌐.  <br>I write clean and efficient code ✨ and have a solid grasp of advanced Django features.Hello, my main expertise is Python language with Django framework</h4>
+<h4 align="left">"Hello 👋
+My main expertise is in Python 🐍, with a strong focus on the Django framework 🌐.
+I write clean and efficient code ✨ and have a solid grasp of advanced Django features.
+Currently, I am looking to expand my knowledge in this area."
+</h4>
 
 ###
 
